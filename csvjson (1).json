@@ -1,0 +1,650 @@
+[
+  {
+    "Year": 105,
+    "Series": 1,
+    "Schedule": "1日",
+    "Location": "苗栗/新竹",
+    "total": 617,
+    "man": 510,
+    "woman": 107
+  },
+  {
+    "Year": 105,
+    "Series": 2,
+    "Schedule": "1日",
+    "Location": "高雄",
+    "total": 531,
+    "man": 423,
+    "woman": 108
+  },
+  {
+    "Year": 105,
+    "Series": 3,
+    "Schedule": "半日",
+    "Location": "新北",
+    "total": 377,
+    "man": 276,
+    "woman": 101
+  },
+  {
+    "Year": 105,
+    "Series": 4,
+    "Schedule": "半日",
+    "Location": "彰化",
+    "total": 232,
+    "man": 198,
+    "woman": 34
+  },
+  {
+    "Year": 105,
+    "Series": 5,
+    "Schedule": "半日",
+    "Location": "臺中",
+    "total": 517,
+    "man": 414,
+    "woman": 103
+  },
+  {
+    "Year": 105,
+    "Series": 6,
+    "Schedule": "1日",
+    "Location": "嘉義",
+    "total": 409,
+    "man": 316,
+    "woman": 93
+  },
+  {
+    "Year": 105,
+    "Series": 7,
+    "Schedule": "1日",
+    "Location": "宜蘭",
+    "total": 598,
+    "man": 418,
+    "woman": 180
+  },
+  {
+    "Year": 105,
+    "Series": 8,
+    "Schedule": "半日",
+    "Location": "宜蘭",
+    "total": 187,
+    "man": 155,
+    "woman": 32
+  },
+  {
+    "Year": 105,
+    "Series": 9,
+    "Schedule": "2日",
+    "Location": "臺南",
+    "total": 286,
+    "man": 230,
+    "woman": 56
+  },
+  {
+    "Year": 105,
+    "Series": 10,
+    "Schedule": "2日",
+    "Location": "苗栗",
+    "total": 323,
+    "man": 248,
+    "woman": 75
+  },
+  {
+    "Year": 105,
+    "Series": 11,
+    "Schedule": "半日",
+    "Location": "新竹",
+    "total": 372,
+    "man": 280,
+    "woman": 92
+  },
+  {
+    "Year": 105,
+    "Series": 12,
+    "Schedule": "2日",
+    "Location": "南投",
+    "total": 632,
+    "man": 420,
+    "woman": 212
+  },
+  {
+    "Year": 106,
+    "Series": 1,
+    "Schedule": "1日",
+    "Location": "苗栗",
+    "total": 1069,
+    "man": 831,
+    "woman": 238
+  },
+  {
+    "Year": 106,
+    "Series": 2,
+    "Schedule": "2日",
+    "Location": "宜蘭",
+    "total": 586,
+    "man": 443,
+    "woman": 143
+  },
+  {
+    "Year": 106,
+    "Series": 3,
+    "Schedule": "半日",
+    "Location": "臺中",
+    "total": 617,
+    "man": 510,
+    "woman": 107
+  },
+  {
+    "Year": 106,
+    "Series": 4,
+    "Schedule": "1日",
+    "Location": "高雄",
+    "total": 405,
+    "man": 269,
+    "woman": 136
+  },
+  {
+    "Year": 106,
+    "Series": 5,
+    "Schedule": "2日",
+    "Location": "南投",
+    "total": 748,
+    "man": 531,
+    "woman": 217
+  },
+  {
+    "Year": 106,
+    "Series": 6,
+    "Schedule": "1日",
+    "Location": "桃園",
+    "total": 848,
+    "man": 683,
+    "woman": 165
+  },
+  {
+    "Year": 106,
+    "Series": 7,
+    "Schedule": "1日",
+    "Location": "臺南",
+    "total": 640,
+    "man": 501,
+    "woman": 139
+  },
+  {
+    "Year": 106,
+    "Series": 8,
+    "Schedule": "半日",
+    "Location": "嘉義",
+    "total": 440,
+    "man": 354,
+    "woman": 86
+  },
+  {
+    "Year": 106,
+    "Series": 9,
+    "Schedule": "半日",
+    "Location": "新北",
+    "total": 936,
+    "man": 743,
+    "woman": 193
+  },
+  {
+    "Year": 106,
+    "Series": 10,
+    "Schedule": "半日",
+    "Location": "臺中",
+    "total": 589,
+    "man": 445,
+    "woman": 144
+  },
+  {
+    "Year": 106,
+    "Series": 11,
+    "Schedule": "半日",
+    "Location": "臺北",
+    "total": 825,
+    "man": 456,
+    "woman": 369
+  },
+  {
+    "Year": 106,
+    "Series": 12,
+    "Schedule": "2日",
+    "Location": "臺東",
+    "total": 727,
+    "man": 510,
+    "woman": 217
+  },
+  {
+    "Year": 107,
+    "Series": 1,
+    "Schedule": "2日",
+    "Location": "屏東",
+    "total": 522,
+    "man": 413,
+    "woman": 109
+  },
+  {
+    "Year": 107,
+    "Series": 2,
+    "Schedule": "半日",
+    "Location": "桃園",
+    "total": 588,
+    "man": 513,
+    "woman": 75
+  },
+  {
+    "Year": 107,
+    "Series": 3,
+    "Schedule": "半日",
+    "Location": "臺中",
+    "total": 658,
+    "man": 521,
+    "woman": 137
+  },
+  {
+    "Year": 107,
+    "Series": 4,
+    "Schedule": "1日",
+    "Location": "苗栗",
+    "total": 857,
+    "man": 688,
+    "woman": 169
+  },
+  {
+    "Year": 107,
+    "Series": 5,
+    "Schedule": "2日",
+    "Location": "南投",
+    "total": 818,
+    "man": 606,
+    "woman": 212
+  },
+  {
+    "Year": 107,
+    "Series": 6,
+    "Schedule": "1日",
+    "Location": "宜蘭",
+    "total": 558,
+    "man": 432,
+    "woman": 126
+  },
+  {
+    "Year": 107,
+    "Series": 7,
+    "Schedule": "半日",
+    "Location": "嘉義",
+    "total": 478,
+    "man": 396,
+    "woman": 82
+  },
+  {
+    "Year": 107,
+    "Series": 8,
+    "Schedule": "1日",
+    "Location": "臺南",
+    "total": 720,
+    "man": 575,
+    "woman": 145
+  },
+  {
+    "Year": 107,
+    "Series": 9,
+    "Schedule": "1日",
+    "Location": "高雄",
+    "total": 612,
+    "man": 470,
+    "woman": 142
+  },
+  {
+    "Year": 107,
+    "Series": 10,
+    "Schedule": "1日",
+    "Location": "屏東",
+    "total": 185,
+    "man": 162,
+    "woman": 23
+  },
+  {
+    "Year": 107,
+    "Series": 11,
+    "Schedule": "半日",
+    "Location": "臺北",
+    "total": 764,
+    "man": 501,
+    "woman": 263
+  },
+  {
+    "Year": 107,
+    "Series": 12,
+    "Schedule": "半日",
+    "Location": "臺北",
+    "total": 981,
+    "man": 731,
+    "woman": 250
+  },
+  {
+    "Year": 107,
+    "Series": 13,
+    "Schedule": "半日",
+    "Location": "臺中",
+    "total": 738,
+    "man": 546,
+    "woman": 192
+  },
+  {
+    "Year": 107,
+    "Series": 14,
+    "Schedule": "1日",
+    "Location": "嘉義",
+    "total": 647,
+    "man": 527,
+    "woman": 120
+  },
+  {
+    "Year": 107,
+    "Series": 15,
+    "Schedule": "2日",
+    "Location": "臺東",
+    "total": 568,
+    "man": 403,
+    "woman": 165
+  },
+  {
+    "Year": 107,
+    "Series": 16,
+    "Schedule": "2日",
+    "Location": "花蓮",
+    "total": 421,
+    "man": 335,
+    "woman": 86
+  },
+  {
+    "Year": 107,
+    "Series": 17,
+    "Schedule": "2日",
+    "Location": "花蓮",
+    "total": 427,
+    "man": 333,
+    "woman": 94
+  },
+  {
+    "Year": 108,
+    "Series": 1,
+    "Schedule": "2日",
+    "Location": "屏東",
+    "total": 533,
+    "man": 438,
+    "woman": 95
+  },
+  {
+    "Year": 108,
+    "Series": 2,
+    "Schedule": "1日",
+    "Location": "臺中",
+    "total": 620,
+    "man": 522,
+    "woman": 98
+  },
+  {
+    "Year": 108,
+    "Series": 3,
+    "Schedule": "半日",
+    "Location": "新竹",
+    "total": 419,
+    "man": 332,
+    "woman": 87
+  },
+  {
+    "Year": 108,
+    "Series": 4,
+    "Schedule": "2日",
+    "Location": "宜蘭",
+    "total": 648,
+    "man": 515,
+    "woman": 133
+  },
+  {
+    "Year": 108,
+    "Series": 5,
+    "Schedule": "半日",
+    "Location": "高雄",
+    "total": 366,
+    "man": 319,
+    "woman": 47
+  },
+  {
+    "Year": 108,
+    "Series": 6,
+    "Schedule": "1日",
+    "Location": "臺南",
+    "total": 601,
+    "man": 490,
+    "woman": 111
+  },
+  {
+    "Year": 108,
+    "Series": 7,
+    "Schedule": "半日",
+    "Location": "臺北",
+    "total": 569,
+    "man": 436,
+    "woman": 133
+  },
+  {
+    "Year": 108,
+    "Series": 8,
+    "Schedule": "半日",
+    "Location": "新北",
+    "total": 463,
+    "man": 352,
+    "woman": 111
+  },
+  {
+    "Year": 108,
+    "Series": 9,
+    "Schedule": "2日",
+    "Location": "花蓮",
+    "total": 393,
+    "man": 311,
+    "woman": 82
+  },
+  {
+    "Year": 108,
+    "Series": 10,
+    "Schedule": "1日",
+    "Location": "臺北",
+    "total": 586,
+    "man": 471,
+    "woman": 115
+  },
+  {
+    "Year": 108,
+    "Series": 11,
+    "Schedule": "1日",
+    "Location": "桃園",
+    "total": 458,
+    "man": 372,
+    "woman": 86
+  },
+  {
+    "Year": 108,
+    "Series": 12,
+    "Schedule": "1日",
+    "Location": "嘉義",
+    "total": 620,
+    "man": 539,
+    "woman": 81
+  },
+  {
+    "Year": 108,
+    "Series": 13,
+    "Schedule": "1日",
+    "Location": "高雄",
+    "total": 589,
+    "man": 507,
+    "woman": 82
+  },
+  {
+    "Year": 108,
+    "Series": 14,
+    "Schedule": "半日",
+    "Location": "臺中",
+    "total": 622,
+    "man": 506,
+    "woman": 116
+  },
+  {
+    "Year": 108,
+    "Series": 15,
+    "Schedule": "1日",
+    "Location": "彰化",
+    "total": 773,
+    "man": 667,
+    "woman": 106
+  },
+  {
+    "Year": 108,
+    "Series": 16,
+    "Schedule": "1日",
+    "Location": "新北",
+    "total": 776,
+    "man": 571,
+    "woman": 205
+  },
+  {
+    "Year": 108,
+    "Series": 17,
+    "Schedule": "1日",
+    "Location": "宜蘭",
+    "total": 877,
+    "man": 635,
+    "woman": 242
+  },
+  {
+    "Year": 108,
+    "Series": 18,
+    "Schedule": "2日",
+    "Location": "南投",
+    "total": 840,
+    "man": 663,
+    "woman": 177
+  },
+  {
+    "Year": 109,
+    "Series": 1,
+    "Schedule": "1日",
+    "Location": "臺中",
+    "total": 727,
+    "man": 587,
+    "woman": 140
+  },
+  {
+    "Year": 109,
+    "Series": 2,
+    "Schedule": "1日",
+    "Location": "雲林",
+    "total": 634,
+    "man": 546,
+    "woman": 88
+  },
+  {
+    "Year": 109,
+    "Series": 3,
+    "Schedule": "2日",
+    "Location": "臺東",
+    "total": 537,
+    "man": 427,
+    "woman": 110
+  },
+  {
+    "Year": 109,
+    "Series": 4,
+    "Schedule": "1日",
+    "Location": "臺中",
+    "total": 805,
+    "man": 668,
+    "woman": 137
+  },
+  {
+    "Year": 109,
+    "Series": 5,
+    "Schedule": "1日",
+    "Location": "苗栗",
+    "total": 559,
+    "man": 486,
+    "woman": 73
+  },
+  {
+    "Year": 109,
+    "Series": 6,
+    "Schedule": "1日",
+    "Location": "臺北",
+    "total": 808,
+    "man": 599,
+    "woman": 209
+  },
+  {
+    "Year": 109,
+    "Series": 7,
+    "Schedule": "1日",
+    "Location": "宜蘭",
+    "total": 709,
+    "man": 517,
+    "woman": 192
+  },
+  {
+    "Year": 109,
+    "Series": 8,
+    "Schedule": "2日",
+    "Location": "高雄",
+    "total": 532,
+    "man": 436,
+    "woman": 96
+  },
+  {
+    "Year": 109,
+    "Series": 9,
+    "Schedule": "1日",
+    "Location": "新竹",
+    "total": 728,
+    "man": 582,
+    "woman": 146
+  },
+  {
+    "Year": 109,
+    "Series": 10,
+    "Schedule": "1日",
+    "Location": "嘉義",
+    "total": 471,
+    "man": 386,
+    "woman": 85
+  },
+  {
+    "Year": 109,
+    "Series": 11,
+    "Schedule": "1日",
+    "Location": "臺南",
+    "total": 601,
+    "man": 463,
+    "woman": 138
+  },
+  {
+    "Year": 109,
+    "Series": 12,
+    "Schedule": "2日",
+    "Location": "南投",
+    "total": 940,
+    "man": 713,
+    "woman": 227
+  },
+  {
+    "Year": 109,
+    "Series": 13,
+    "Schedule": "2日",
+    "Location": "宜蘭",
+    "total": 839,
+    "man": 641,
+    "woman": 198
+  }
+]
